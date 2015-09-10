@@ -8,3 +8,5 @@ grab the door to save yourself, but you miss. You fall down the hole
 to your grisly death.
 """
 prompt="Please type exit to restart."
+
+on_revive=¨revive¨
