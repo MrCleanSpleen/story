@@ -9,4 +9,4 @@ to your grisly death.
 """
 prompt="Please type exit to restart."
 
-
+on_revive='revive'
