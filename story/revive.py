@@ -7,3 +7,4 @@ is a bend in the tunnel, and you can´t see what is down it. Your gut tells you 
 up the ladder to go back to the surface, but you are curious to see what is down the tunnel.
 
 """
+on_ladder='ladder'
