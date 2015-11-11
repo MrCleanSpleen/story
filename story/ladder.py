@@ -8,4 +8,8 @@ hole, you find yourself in a huge, white room as big as a football field and 10
 meters high. At the end of the room are two doors. One of them is written in a weird, 
 alien alphabet. The other has the words, "Backup Generator," on it.
 """
-prompt("Do you go into the door with the alien languageon it, or into the backup generator room?")
+prompt("Do you go into the door with the alien language on it, or into the backup generator room?")
+on_generator="generator.py"
+on_alien="alien.py"
+
+
